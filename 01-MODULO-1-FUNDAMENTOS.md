@@ -12,7 +12,7 @@
 ### Definição Prática e Aplicada
 
 **O que É:**
-- Método de desenvolvimento onde describes o que queres em linguagem natural
+- Método de desenvolvimento onde descreves o que queres em linguagem natural
 - A IA gera código funcional baseado nas tuas instruções
 - Processo iterativo: gera → testa → refina → repete
 - Foco no "o quê" em vez do "como"
@@ -27,12 +27,12 @@
 
 | Aspecto | Tradicional | Com IA |
 |---------|-------------|--------|
-| **Conhecimento necessário** | Sintaxe, frameworks, best practices | O que queres construir, lógica básica |
+| **Conhecimento necessário** | Sintaxe, frameworks, boas práticas | O que queres construir, lógica básica |
 | **Tempo de aprendizagem** | Meses/anos | Dias/semanas |
 | **Velocidade inicial** | Lenta (setup, configuração) | Muito rápida (protótipo em minutos) |
 | **Controlo** | Total sobre cada linha | Orientas mas não controlas tudo |
-| **Debugging** | Manual, linha a linha | Describes o erro à IA |
-| **Manutenção** | Precisas entender o código | IA ajuda a entender e modificar |
+| **Debugging** | Manual, linha a linha | Descreves o erro à IA |
+| **Manutenção** | Precisas de entender o código | IA ajuda a entender e modificar |
 
 ### Casos de Uso: Quando Usar
 
@@ -727,7 +727,7 @@ Ferramentas que transformam ideias em apps funcionais através de prompts, com p
 **Limitações:**
 ❌ **Só frontend** - zero backend/database/lógica  
 ❌ **Requer ambiente de dev** configurado (VS Code, Node.js, Git)  
-❌ **Não é "no-code"** - precisas saber usar GitHub/terminal  
+❌ **Não é "no-code"** - precisas de saber usar GitHub/terminal  
 ❌ Créditos mensais limitados no free tier  
 ❌ Não cria apps completas, só partes da UI  
 
@@ -752,7 +752,7 @@ Ferramentas que transformam ideias em apps funcionais através de prompts, com p
 
 **O que é:**
 - Ferramenta focada em design e prototipagem visual
-- Transforma prompts em telas editáveis
+- Transforma prompts em ecrãs editáveis
 - Export para Figma para refinamento
 
 **Pontos Fortes:**
@@ -809,7 +809,7 @@ Ferramentas que transformam ideias em apps funcionais através de prompts, com p
 | Aspecto | Bolt.new | Lovable | v0.dev | Banani |
 |---------|----------|---------|--------|--------|
 | **Público** | Devs | Não-devs | Devs React | Designers |
-| **Curva aprendizado** | Média-Alta | Baixa | Média | Baixa |
+| **Curva aprendizagem** | Média-Alta | Baixa | Média | Baixa |
 | **Controlo código** | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐ (só design) |
 | **Full-stack?** | Sim (básico) | Sim | Não (só UI) | Não |
 | **Qualidade código** | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | N/A |
@@ -847,7 +847,7 @@ Ferramentas que transformam ideias em apps funcionais através de prompts, com p
 
 ---
 
-### ⚠️ REALIDADE CHECK
+### ⚠️ CHOQUE DE REALIDADE
 
 **Nenhuma destas ferramentas cria apps de produção enterprise-ready sozinha.**
 
@@ -862,7 +862,7 @@ Mas **não substituem** (ainda):
 - ❌ Segurança robusta
 - ❌ Performance otimizada
 - ❌ Testes automatizados
-- ❌ Manutenção long-term
+- ❌ Manutenção a longo prazo
 - ❌ Features complexas de negócio
 
 **Usa-as como acelerador**, não como solução completa. Para produtos sérios, eventualmente precisas de developers reais a refinar e escalar.
@@ -873,7 +873,7 @@ Mas **não substituem** (ainda):
 
 ### O Que É e Porquê Importa?
 
-**MCP (Model Context Protocol)** é o standard universal que permite à IA aceder aos teus dados e ferramentas. Pensa nele como o **"USB-C para IA"** - um conector que funciona em todo o lado.
+**MCP (Model Context Protocol)** é o padrão universal que permite à IA aceder aos teus dados e ferramentas. Pensa nele como o **"USB-C para IA"** - um conector que funciona em todo o lado.
 
 **Criado por:** Anthropic (Nov 2024) | **Status:** Open-source, adotado por Google, OpenAI, Microsoft
 
@@ -1102,7 +1102,7 @@ server.setRequestHandler("tools/call", async (request) => {
 
 | | MCP | OpenAI Functions | ChatGPT Plugins |
 |---|-----|------------------|-----------------|
-| **Standard aberto** | ✅ | ❌ | ❌ |
+| **Padrão aberto** | ✅ | ❌ | ❌ |
 | **Multi-modelo** | ✅ | ❌ | ❌ |
 | **Servers disponíveis** | 16K+ | Limitado | Descontinuado |
 | **Self-host** | ✅ | ❌ | ❌ |
@@ -1126,7 +1126,7 @@ server.setRequestHandler("tools/call", async (request) => {
 
 ### 🎯 TL;DR - MCP em 3 Pontos
 
-1. **O quê:** Standard para IA aceder a dados/ferramentas (USB-C da IA)
+1. **O quê:** Padrão para IA aceder a dados/ferramentas (USB-C da IA)
 2. **Porquê:** Reduz 1000 integrações para 110 (90% menos trabalho)
 3. **Como usar:** Cursor/Windsurf têm setup de 1 clique, ou Claude Desktop com config JSON
 
@@ -1255,7 +1255,7 @@ Linha de comando e automação avançada.
 
 **Custos podem acumular:** €20 + €20 + €20 = €60/mês rapidamente. Define orçamento primeiro.
 
-**A ferramenta não te faz programmer:** Estas ferramentas aceleram, mas ainda precisas de:
+**A ferramenta não te faz programador:** Estas ferramentas aceleram, mas ainda precisas de:
 - Saber o que queres construir
 - Entender lógica básica
 - Debugging e troubleshooting
@@ -1336,7 +1336,7 @@ Linha de comando e automação avançada.
 ### Regras de Ouro
 
 **1. Valida Sempre**
-- Nunca assumes que o código gerado está 100% correto
+- Nunca assumas que o código gerado está 100% correto
 - Testa antes de usar em produção
 - Compreende o básico do que foi gerado
 

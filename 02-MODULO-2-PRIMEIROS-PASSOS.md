@@ -370,7 +370,7 @@ Assunto: Proposta Comercial - [Produto]
 
 Olá [Nome],
 
-Conforme conversado, segue em anexo nossa proposta comercial 
+Conforme conversado, segue em anexo a nossa proposta comercial 
 para [Produto] no valor de [Valor]€.
 
 [resto do template...]

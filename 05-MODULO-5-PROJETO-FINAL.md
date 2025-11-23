@@ -359,7 +359,7 @@ Implementa 2-3 destas funcionalidades.
 
 **Performance:**
 - [ ] Carrega rápido (<2s)
-- [ ] Não trava com 100+ items
+- [ ] Não trava com 100+ itens
 - [ ] Animações são suaves
 
 **Compatibilidade:**
@@ -426,14 +426,14 @@ Mantém a funcionalidade igual, apenas refactoring.
 Acede a [link]
 
 ### Local
-1. Clone o repositório
+1. Clona o repositório
 bash
 git clone [url]
 
 
 2. Abre `index.html` no browser
 
-Não precisa de instalação!
+Não requer instalação!
 
 ## 💡 Como Funciona
 
@@ -489,7 +489,7 @@ Explica passo a passo como fazer deploy do meu projeto web
 1. Vai a https://app.netlify.com/drop
 2. Arrasta a pasta do projeto
 3. ✅ Online em segundos
-4. Pode customizar URL
+4. Podes customizar o URL
 
 ---
 

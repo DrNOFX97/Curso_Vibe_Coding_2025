@@ -161,7 +161,7 @@ Solução: Verifica que a pasta existe e tem ficheiros .xlsx
 ```
 CONTEXTO:
 Sou gestor comercial e preciso de enviar propostas comerciais personalizadas 
-a 50 clientes. Cada cliente deve receber email com seu nome, produto de interesse 
+a 50 clientes. Cada cliente deve receber email com o seu nome, produto de interesse 
 e valor da proposta.
 
 OBJETIVO:
@@ -274,7 +274,7 @@ Script que:
 
 **C. Webscraping de Preços**
 ```
-Monitora preços de produtos em websites:
+Monitoriza preços de produtos em websites:
 - Lista de URLs de produtos
 - Extrai preço atual
 - Compara com preço anterior

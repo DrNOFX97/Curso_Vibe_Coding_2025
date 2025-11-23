@@ -60,7 +60,7 @@
 
 ---
 
-## 🎯 O QUE VAS CONSEGUIR FAZER NO FINAL
+## 🎯 O QUE VAIS CONSEGUIR FAZER NO FINAL
 
 Depois deste curso, vais ser capaz de:
 

@@ -635,7 +635,7 @@ que já faça isto?"
 **Nível Iniciante (próximas 2 semanas):**
 
 1. **Portfolio Pessoal**
-   - Landing page com teus projetos
+   - Landing page com os teus projetos
    - Formulário de contacto funcional
    - Deploy online
 
@@ -645,7 +645,7 @@ que já faça isto?"
    - Histórico de conversões
 
 3. **Lista de Compras Inteligente**
-   - Adicionar/remover items
+   - Adicionar/remover itens
    - Marcar como comprado
    - Estimar custo total
    - Partilhar lista (export)
@@ -666,7 +666,7 @@ que já faça isto?"
    - Integração com Google Calendar
 
 6. **Web Scraper Útil**
-   - Monitora preços de produtos
+   - Monitoriza preços de produtos
    - Extrai vagas de emprego
    - Alerta quando encontra match
 

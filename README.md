@@ -53,18 +53,18 @@ Não precisas de ser um programador experiente! Este curso é ideal para quem te
 
 ## 🚀 Como Usar Este Repositório
 
-1. **Clone o repositório:**
+1. **Clona o repositório:**
    ```bash
    git clone https://github.com/teu-usuario/curso-vibe-coding.git
    ```
-2. **Navegue pelos módulos:** Siga a ordem sugerida (Módulo 1 a 5).
-3. **Pratique:** Abra os exemplos no seu editor de código e experimente modificar os prompts e o código.
+2. **Navega pelos módulos:** Segue a ordem sugerida (Módulo 1 a 5).
+3. **Pratica:** Abre os exemplos no teu editor de código e experimenta modificar os prompts e o código.
 
 ## 🤝 Contribuição e Suporte
 
 Dúvidas ou sugestões?
 - **Organização:** AQIA - Academia de IA
-- **Suporte:** Consulte o [Módulo 4](04-MODULO-4-WORKFLOW.md) para dicas de troubleshooting.
+- **Suporte:** Consulta o [Módulo 4](04-MODULO-4-WORKFLOW.md) para dicas de troubleshooting.
 
 ---
 *Desenvolvido com ❤️ e IA.*
